@@ -1,2 +1,49 @@
-# ChatGPT4-Langchain-Translation
-Use Python and ChatGPT and Langchain for translation. 利用Python和ChatGPT完成中文翻译。
+# :page_with_curl: "ChatGPT4-Langchain-Translation" 
+---
+
+[ENGLIST](./README.en.md) | [中文](./README.md)
+
+## 简介
+本仓库使用 Langchain 和 ChatGPT 技术进行文本翻译的项目。
+
+## 描述
+本项目旨在使用最新的语言处理工具和 API，对文本文件（md、word 和 html）进行翻译。使用 ChatGPT 和 Langchain 技术提供准确和可靠的翻译。
+
+## 仓库结构
+仓库的结构如下：
+- english_docs: 包含要翻译的文本文件
+- chinese_docs: 包含已翻译的文本文件
+- scripts: 包含翻译过程中所需的脚本
+- README.md: 本仓库的描述和结构
+
+## 如何使用
+要使用此翻译项目，请按照以下步骤操作：
+1. 将此仓库克隆到本地
+2. 转到 `docs` 目录，并添加要翻译的文本文件
+3. 使用命令 `python translate.py` 运行翻译脚本
+4. 翻译后的文本文件将保存在 `chinese_docs` 
+
+## 总结
+ChatGPT4-Langchain-Translation 项目使用最新的语言处理工具和 API，为文本文件提供了高效可靠的翻译方法。如果您对本项目有任何问题或改进建议，请通过我们的 Github 页面联系我们。
+
+## 开源协议：
+本仓库遵循 MIT 许可证，这是一种宽松的、简短的许可证。除了保持版权和许可证通知之外，此许可证让人们几乎可以随意地使用代码，限制非常少。
+
+## 贡献指南：
+我们欢迎并感激您对本项目的贡献。如果您想要贡献代码，请遵循以下准则：
+
+1. Fork 本仓库，并从 `main` 分支创建自己的分支。
+2. 编写您的更改，并进行充分测试。
+3. 提交一个请求，清晰描述您的更改。
+4. 等待维护者审核和批准后再进行合并。
+
+请确保您的贡献符合项目的目标，不引入任何不必要的依赖项或破坏任何现有的功能。通过对本项目做出贡献，您同意按照与本仓库中其余部分相同的 MIT 许可证发布您的贡献代码。
+
+感谢您对本项目的贡献，让它变得更好！
+
+
+:rocket: 愿您翻译快乐！
+
+## 感谢：
+
+[Langchain中文网](https://langchain.com.cn)
