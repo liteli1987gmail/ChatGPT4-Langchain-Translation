@@ -11,9 +11,6 @@ RETRY_INTERVAL_SECONDS = 60 # 重试间隔时间，单位为秒
 
 retry_count = 0
 
-# 接口请求地址
-api_url = "https://service-k31jp0z6-1317488882.usw.apigw.tencentcs.com/v1/chat/completions"
-
 # 这个模板为getOpenAIapi函数
 def getOpenAIapi(encontent):
     url = 'https://api.openai.com/v1/chat/completions'
