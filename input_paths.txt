@@ -1,0 +1,5 @@
+.\README.en.md
+.\README.md
+.\cn_docs\output.docx
+.\en_docs\input.docx
+.\en_docs\guids\01.md
