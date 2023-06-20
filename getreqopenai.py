@@ -2,7 +2,7 @@ import requests
 import json
 import time
 
-openaikey_env = "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"
+openaikey_env = ""
 print("Bearer "+ openaikey_env)
 fileAndContent = {}
 
